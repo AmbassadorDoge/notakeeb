@@ -33,11 +33,12 @@ created_at: "2025-06-28"
 ### Day 3 | 7/1 | Hopefully almost done!
 - Double checked PCB
 - Learning Fusion360! It's my first time, and I have only used SolidWorks and Onshape before
+    - I realize that I dislike fusion, it is so slow!
 
 **Total hours spent: 1h**
 
 ### Day 4 | 7/2 | Finished!
-- Finished the case
+- Finished the case! I plan to use heat set inserts so screwing in the PCB would be easier
 ![hi](pictures/fusion-ss.png)
 
 **Total hours spent: 1h**
