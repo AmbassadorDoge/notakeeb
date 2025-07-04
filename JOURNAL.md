@@ -1,9 +1,11 @@
 ---
 title: "not a keeb"
-author: "Bryan Hsu"
+author: "Doge"
 description: "It is a keyboard!"
 created_at: "2025-06-28"
 ---
+
+**Total Total time spent: 13h**
 
 ### Day 1 | 6/29 | PCB Pain
 - Did a heck ton of research on what a mechanical keyboard is + components
@@ -31,4 +33,18 @@ created_at: "2025-06-28"
 ### Day 3 | 7/1 | Hopefully almost done!
 - Double checked PCB
 - Learning Fusion360! It's my first time, and I have only used SolidWorks and Onshape before
-- Making bottom part of case
+
+**Total hours spent: 1h**
+
+### Day 4 | 7/2 | Finished!
+- Finished the case
+![hi](pictures/fusion-ss.png)
+
+**Total hours spent: 1h**
+
+### Day 5 | 7/4 | Commits...
+- Organized files + wrote stuff
+- Spent a sad amount of time learning git and almost breaking stuff...
+- Firmware through ai
+
+**Total hours spent: 1h**
