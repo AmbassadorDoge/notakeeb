@@ -1,0 +1,34 @@
+---
+title: "not a keeb"
+author: "Bryan Hsu"
+description: "It is a keyboard!"
+created_at: "2025-06-28"
+---
+
+### Day 1 | 6/29 | PCB Pain
+- Did a heck ton of research on what a mechanical keyboard is + components
+- asked around in #highway for help on part sourcing: decided on Akko Penguins on 65%
+- Started schematic (14x5 + 1 rotary encoder + pico) + pcb work
+- Realized my routing is messy and restarted, then realized that it could be much simpler with better schematic wiring
+    - Changed to 15x5 and removed some switches for bigger keys
+![I really messed up](pictures/i_messed_up.png)
+    - Then realized that the numbering mechanism for kbplacer got messed up because of it :sob:
+- Overall, I learned and set my goals!
+
+**Total hours spent: 5h**
+
+### Day 2 | 6/30 | Fresh Start!
+- Restarted the switches matrix so the numbering would be fixed!
+![good good](pictures/schematic.png)
+- Routed correctly this time
+![good good good](pictures/pcb.png)
+- Spent an unhealthy amount of time navigating KiCad to find where to add 3D Models :(
+![very good](pictures/3d%20view!.png)
+- More research + BOM making
+
+**Total hours spent: 5h** 
+
+### Day 3 | 7/1 | Hopefully almost done!
+- Double checked PCB
+- Learning Fusion360! It's my first time, and I have only used SolidWorks and Onshape before
+- Making bottom part of case
