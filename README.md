@@ -1,20 +1,17 @@
 # This is a Keyboard!
 
 ## Description
-This is a 65% keyboard that I made to learn more about PCB design & keyboard making! It uses a Raspberry Pi Pico as its microcontroller and I plan to use Akko Penguin switches. On the bottom right, there is artwork by [bunnyguy](https://bunnyguy.foo/)!
+This is a 65% keyboard that I made to learn more about PCB design & keyboard making! It uses a Raspberry Pi Pico as its microcontroller and I plan to use Akko Penguin switches. On the bottom right of the PCB, there is artwork by [bunnyguy](https://bunnyguy.foo/)!
 
 ## Why I Made This
 I need a keyboard, and I need to learn pcb design + F360, so why not fulfill both? I also thought this was a fun project, and I learned a lot from researching keyboard components and design! I guess this is a part 2 to the hackpad I made a week earlier.
-
-## Design Choices
-I chose to not include a top plate because I don't think I need one and I think the bottom plate would be viable enough. There are 4 LEDs at the right side, so I can do cool effects with. 
 
 
 ## Pictures
 ![very good](pictures/3d%20view!.png)
 ![good good good](pictures/pcb.png)
 ![good good](pictures/schematic.png)
-![fusionss](pictures/fusion-ss.png)
+![fusionss](pictures/Screenshot%202025-07-05%20at%205.33.53 PM.png)
 ## BOM
 | name        | qty  | price  | link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | notes                 |
 | ----------- | ---- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |

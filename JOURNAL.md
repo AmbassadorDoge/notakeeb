@@ -53,4 +53,5 @@ created_at: "2025-06-28"
 ### Day 6 | 7/6 | Fixes!
 - Committed fixes needed for re-review!
     - Added top to case
+    ![sc](pictures/Screenshot%202025-07-05%20at%205.33.53 PM.png)
 **Total hours spent: 1h**
