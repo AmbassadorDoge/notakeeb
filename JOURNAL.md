@@ -5,7 +5,7 @@ description: "It is a keyboard!"
 created_at: "2025-06-28"
 ---
 
-**Total Total time spent: 14h**
+**Total Total time spent: 15h**
 
 ### Day 1 | 6/29 | PCB Pain
 - Did a heck ton of research on what a mechanical keyboard is + components
@@ -53,5 +53,7 @@ created_at: "2025-06-28"
 ### Day 6 | 7/6 | Fixes!
 - Committed fixes needed for re-review!
     - Added top to case
-    ![sc](pictures/Screenshot%202025-07-05%20at%205.33.53 PM.png)
-**Total hours spent: 1h**
+    ![sc](pictures/Screenshot%202025-07-06%20at%204.52.16 PM.png)
+    - Added teardrop holes for magnets + logos&text
+
+**Total hours spent: 2h**
