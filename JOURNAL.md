@@ -5,7 +5,7 @@ description: "It is a keyboard!"
 created_at: "2025-06-28"
 ---
 
-**Total Total time spent: 13h**
+**Total Total time spent: 14h**
 
 ### Day 1 | 6/29 | PCB Pain
 - Did a heck ton of research on what a mechanical keyboard is + components
@@ -48,4 +48,9 @@ created_at: "2025-06-28"
 - Spent a sad amount of time learning git and almost breaking stuff...
 - Firmware through ai
 
+**Total hours spent: 1h**
+
+### Day 6 | 7/6 | Fixes!
+- Committed fixes needed for re-review!
+    - Added top to case
 **Total hours spent: 1h**
