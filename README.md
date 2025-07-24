@@ -6,6 +6,7 @@ This is a 65% keyboard that I made to learn more about PCB design & keyboard mak
 ## Why I Made This
 I need a keyboard, and I need to learn pcb design + F360, so why not fulfill both? I also thought this was a fun project, and I learned a lot from researching keyboard components and design! I guess this is a part 2 to the hackpad I made a week earlier.
 
+## Why It's Cool
 There are magnets on each side so that decals or wrist rests could be added for customization. There might be keyboard lifts in the making for those side mounts 👀
 
 
